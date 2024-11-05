@@ -16,7 +16,7 @@ pip install -r requirements.txt``
 
 ## 🚀 Uso
 - Carregue os dados: O notebook carrega os dados dos arquivos ``movies_metadata.csv`` e ``ratings.csv.``
-  **Os dois datasets são grandes, então aqui está o link para baixa-los:
+  - **Os dois datasets são grandes, então aqui está o link para baixa-los:**
   - https://drive.usercontent.google.com/download?id=19tLCliDpoAlQNt84dnUZDsHF_yRfJ3AE&export=download&authuser=0
 - Pré-processamento dos dados: Filtra e ajusta os dados para remoção de valores nulos e renomeação de colunas.
 - Execução do modelo de recomendação: Rode as células do notebook para processar as recomendações.
